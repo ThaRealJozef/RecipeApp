@@ -6,7 +6,7 @@
   </div>
 
   🎥 Watch Video Demo
-  https://raw.githubusercontent.com/ThaRealJozef/RecipeApp/refs/heads/master/RecipeAppDemo.mp4
+https://raw.githubusercontent.com/ThaRealJozef/RecipeApp/refs/heads/master/RecipeAppDemo.mp4
 
 ## 📱 About
 A beautiful recipe application with a modern UI/UX, using Room Database for local recipe storage.
