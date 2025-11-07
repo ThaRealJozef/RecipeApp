@@ -5,7 +5,8 @@
   <br><br>
   </div>
 
-  🎥 Watch Video Demo
+🎥 Watch Video Demo
+
 https://github.com/user-attachments/assets/7756bf1d-2986-401b-8260-6eaea7ba0ad0
 
 ## 📱 About
