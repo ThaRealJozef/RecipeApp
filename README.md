@@ -1,14 +1,14 @@
-# Recipe app with modern UI design
-<img src="https://makesdigi.com/recipeApp/recipe-bn.jpg" width="500">
+# Recipe App with Modern UI Design
+<img src="https://pixvid.org/images/2025/11/07/kXD2S.png" width="500">
 
 
 
 https://user-images.githubusercontent.com/114339615/192168742-8bc598f2-dfce-482c-a4c3-98d13d19db27.mp4
 
-## Recipe app with modern UI&UX for android
+## Recipe App with Modern UI&UX for Android
 This app usage Pre-Populate ROOM Database for static recipes (Local database from assets).
 
-## How to add new recipes in diffrent Category
+## How to add new recipes in different Categories
 #### [1. Install SQLite Browser](https://sqlitebrowser.org/dl/) on your system to modify or add new recipes. 
 
 <img width="607" alt="Screenshot 2022-09-26 at 5 03 36 AM" src="https://user-images.githubusercontent.com/114339615/192170608-04603b81-fc18-4607-b45a-6737461b1a4f.png">
