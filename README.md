@@ -5,8 +5,7 @@
   <br><br>
   </div>
 
-  🎥 Watch Video Demo
-[videodemo](https://files.catbox.moe/doa7fx.webm)
+  [🎥 Watch Video Demo](https://files.catbox.moe/uh70db.mp4)
 
 ## 📱 About
 A beautiful recipe application with a modern UI/UX, using Room Database for local recipe storage.
