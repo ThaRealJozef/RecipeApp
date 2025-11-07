@@ -4,10 +4,9 @@
   <img src="https://pixvid.org/images/2025/11/07/kXD2S.png" alt="Recipe App Banner" width="200">
   <br><br>
   </div>
-  
 
-            🎥 Watch Demo Video
-https://files.catbox.moe/doa7fx.webm
+  🎥 Watch Video Demo
+[videodemo](https://files.catbox.moe/doa7fx.webm)
 
 ## 📱 About
 A beautiful recipe application with a modern UI/UX, using Room Database for local recipe storage.
