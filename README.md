@@ -3,9 +3,12 @@
   <h3>Modern UI/UX for Android</h3>
   <img src="https://pixvid.org/images/2025/11/07/kXD2S.png" alt="Recipe App Banner" width="200">
   <br><br>
+  </div>
   
-  🎥 Watch Demo Video
-  https://user-images.githubusercontent.com/114339615/192168742-8bc598f2-dfce-482c-a4c3-98d13d19db27.mp4
+
+<div align="center">🎥 Watch Demo Video
+https://user-images.githubusercontent.com/114339615/192168742-8bc598f2-dfce-482c-a4c3-98d13d19db27.mp4
+</div>
 
 ## 📱 About
 A beautiful recipe application with a modern UI/UX, using Room Database for local recipe storage.
