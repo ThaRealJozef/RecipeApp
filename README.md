@@ -1,5 +1,5 @@
 # Recipe App with Modern UI Design
-<img src="https://pixvid.org/images/2025/11/07/kXD2S.png" width="500">
+<img src="https://pixvid.org/images/2025/11/07/kXD2S.png" width="100">
 
 
 
