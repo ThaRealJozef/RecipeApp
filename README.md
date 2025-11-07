@@ -1,24 +1,15 @@
-<div align="center">
-  <h1>🍳 Recipe App</h1>
-  <h3>Modern UI/UX for Android</h3>
-  <img src="https://pixvid.org/images/2025/11/07/kXD2S.png" alt="Recipe App Banner" width="600">
-  <br><br>
-  <a href="https://user-images.githubusercontent.com/114339615/192168742-8bc598f2-dfce-482c-a4c3-98d13d19db27.mp4">🎥 Watch Demo Video</a>
-</div>
+# Recipe app with modern UI design
+<img src="https://makesdigi.com/recipeApp/recipe-bn.jpg" width="500">
 
-## 📱 About
-A beautiful recipe application with a modern UI/UX, using Room Database for local recipe storage.
 
-## ✨ Features
-- 🍽️ Browse recipes by categories
-- 🔍 Search functionality
-- 📱 Modern Material Design
-- 💾 Offline-first with Room Database
-- 🚀 Fast and smooth performance
 
-## 🛠️ How to Add New Recipes
-### 1. Install SQLite Browser
-Download and install [SQLite Browser](https://sqlitebrowser.org/dl/) to modify or add new recipes.
+https://user-images.githubusercontent.com/114339615/192168742-8bc598f2-dfce-482c-a4c3-98d13d19db27.mp4
+
+## Recipe app with modern UI&UX for android
+This app usage Pre-Populate ROOM Database for static recipes (Local database from assets).
+
+## How to add new recipes in diffrent Category
+#### [1. Install SQLite Browser](https://sqlitebrowser.org/dl/) on your system to modify or add new recipes. 
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/114339615/192170608-04603b81-fc18-4607-b45a-6737461b1a4f.png" alt="SQLite Browser" width="80%">
