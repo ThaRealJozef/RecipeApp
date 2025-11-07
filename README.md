@@ -6,9 +6,8 @@
   </div>
   
 
-<div align="center">🎥 Watch Demo Video
-https://user-images.githubusercontent.com/114339615/192168742-8bc598f2-dfce-482c-a4c3-98d13d19db27.mp4
-</div>
+            🎥 Watch Demo Video
+https://files.catbox.moe/doa7fx.webm
 
 ## 📱 About
 A beautiful recipe application with a modern UI/UX, using Room Database for local recipe storage.
